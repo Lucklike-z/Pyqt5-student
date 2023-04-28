@@ -4,4 +4,4 @@
 ## 开发环境
 Python3.1+Pycharm+PyQt5+Mysql5.7
 ## 测试环境
-测试环境win11+mysql5.7其他版本未测试
+mysql5.7其他版本未测试
