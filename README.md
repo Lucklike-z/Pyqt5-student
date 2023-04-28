@@ -5,3 +5,5 @@
 Python3.1+Pycharm+PyQt5+Mysql5.7
 ## 测试环境
 mysql5.7其他版本未测试
+## 打包好的执行文件
+https://wwuz.lanzoum.com/iMcmV0u4ynqd
